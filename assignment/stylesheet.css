@@ -1,0 +1,13 @@
+.info {
+    border-style: solid;
+    border-width: 1em;
+    border-color: #55757a;
+    background-color: #846a6a;
+}
+h2 {
+    background-color: #a2999e;
+}
+h3 {
+    background-color: #a2999e;
+    color:white;
+}
