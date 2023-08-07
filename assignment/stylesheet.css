@@ -1,13 +1,21 @@
+body {
+    text-align: center;
+    background-color: whitesmoke;
+}
 .info {
     border-style: solid;
-    border-width: 1em;
-    border-color: #55757a;
-    background-color: #846a6a;
+    border-width: 2em;
+    border-color: #c3e2e7;
+    background-color: #b0d8c8;
+    display:inline-block;
+
 }
 h2 {
-    background-color: #a2999e;
+    background-color: whitesmoke;
+    color: rgb(69, 68, 68);
+    
 }
 h3 {
-    background-color: #a2999e;
-    color:white;
+    background-color: whitesmoke;
+    color:rgb(69, 68, 68);
 }
